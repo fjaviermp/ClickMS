@@ -1,1 +1,2 @@
-esto es la home
+
+esta es la pagina de inicio
